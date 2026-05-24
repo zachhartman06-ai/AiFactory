@@ -1,0 +1,54 @@
+# AGENT FACTORY — GitHub Actions Workflow
+# =========================================
+# Runs the factory automatically on a schedule.
+#
+# TO CHANGE FREQUENCY — edit the cron line below:
+#   Once per day at 9am UTC:   '0 9 * * *'      ← current setting
+#   3x per day:                '0 6,14,22 * * *'
+#   Every 4 hours:             '0 */4 * * *'
+#   Every 12 hours:            '0 */12 * * *'
+#   Once per week (Monday):    '0 9 * * 1'
+#
+# Cron format: minute hour day month weekday
+# =========================================
+ 
+name: Agent Factory Daily Run
+ 
+on:
+  schedule:
+    - cron: '0 9 * * *'   # ← CHANGE THIS LINE to adjust frequency
+ 
+  # Lets you trigger a run manually from GitHub's Actions tab
+  workflow_dispatch:
+ 
+jobs:
+  run-factory:
+    runs-on: ubuntu-latest
+ 
+    permissions:
+      contents: write   # needed to commit the products.json output
+ 
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+ 
+      - name: Install dependencies
+        run: pip install anthropic
+ 
+      - name: Run Agent Factory
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python factory.py
+ 
+      - name: Commit and push product output
+        run: |
+          git config --global user.name "Agent Factory Bot"
+          git config --global user.email "factory@agentfactory.bot"
+          git add outputs/products.json
+          git diff --staged --quiet || git commit -m "🏭 Factory run: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
