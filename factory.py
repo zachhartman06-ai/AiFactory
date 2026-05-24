@@ -45,7 +45,7 @@ def call_claude(client, system_prompt, user_prompt, expect_json=False):
     """Call Claude Sonnet and return the text response."""
     print(f"    → Calling Claude...")
     message = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-4-5-20251001",
         max_tokens=1000,
         system=system_prompt,
         messages=[{"role": "user", "content": user_prompt}]
