@@ -1,5 +1,89 @@
 [
   {
+    "id": "PRODUCT_20260525_123652",
+    "createdAt": "2026-05-25T12:36:52.851773",
+    "niche": "Preppers and survivalists building 72-hour emergency kits",
+    "research": {
+      "topProducts": [
+        {
+          "title": "72-Hour Emergency Kit Checklist & Survival Guide (PDF Bundle)",
+          "platform": "Etsy",
+          "estimatedPrice": "$7-$15",
+          "whyItSells": "Highly visual, printable checklists appeal to beginners who feel overwhelmed by prepping; easy to customize and share with family members; low price point removes purchase hesitation",
+          "weaknesses": "Extremely saturated market on Etsy with hundreds of similar listings; most lack depth beyond basic checklists and do not provide sourcing recommendations or scenario-specific guidance"
+        },
+        {
+          "title": "The Prepared Family Guide to Uncommon Disasters (eBook)",
+          "platform": "Amazon Kindle",
+          "estimatedPrice": "$9-$12",
+          "whyItSells": "Covers scenarios most guides ignore such as pandemics, cyberattacks, and grid failures; credible author background builds trust; Amazon reviews and algorithm drive organic discovery",
+          "weaknesses": "Focused on broader disaster preparedness rather than strictly 72-hour kit building; content can feel dated as supply chain and product availability changes; no interactive or updated digital components"
+        },
+        {
+          "title": "Prepper's 72-Hour Bug Out Bag Masterclass (Video Course)",
+          "platform": "Udemy / Teachable",
+          "estimatedPrice": "$29-$97",
+          "whyItSells": "Step-by-step video format builds confidence for visual learners; covers gear selection, water purification, food rationing, and first aid; perceived high value compared to PDF products",
+          "weaknesses": "High refund rates when content does not match preview expectations; lacks community or ongoing support; many courses feel like repurposed YouTube content without added professional depth"
+        },
+        {
+          "title": "Family Emergency Binder & Survival Planner (Digital Download)",
+          "platform": "Etsy / Gumroad",
+          "estimatedPrice": "$12-$25",
+          "whyItSells": "Combines document organization, emergency contacts, medical records, and kit planning in one bundle; appeals to parents and homeowners; strong Pinterest and Instagram traffic driver",
+          "weaknesses": "Often generic and not tailored to specific climates, family sizes, or disability needs; customers frequently report needing to heavily edit templates to make them practical for their situation"
+        },
+        {
+          "title": "SurvivalReady 72-Hour Kit Builder Spreadsheet & Resource Pack",
+          "platform": "Gumroad / Ko-fi",
+          "estimatedPrice": "$10-$20",
+          "whyItSells": "Spreadsheet format with cost tracking, gear sourcing links, and calorie calculators resonates with detail-oriented preppers; perceived as more actionable than static PDFs; strong word-of-mouth in prepper forums like Reddit r/preppers",
+          "weaknesses": "Limited visual appeal reduces impulse purchases; requires buyer to already understand basic prepping concepts; no mobile-friendly version and spreadsheet tools intimidate non-technical buyers"
+        }
+      ]
+    },
+    "idea": {
+      "productTitle": "The 72-Hour Kit Customizer: Scenario-Specific Build Plans for Your Family, Climate, and Needs",
+      "uniqueAngle": "Unlike generic checklists or one-size-fits-all guides, this is a modular template pack where buyers answer a short intake questionnaire and follow a branching build path tailored to their household size, geographic region, climate zone, medical or mobility needs, and most likely local disaster types such as hurricane versus wildfire versus winter storm versus urban grid failure",
+      "format": "template pack",
+      "targetBuyer": "A parent aged 30 to 50 living in a disaster-prone region who has looked at basic checklists and felt they did not apply to their specific situation, has a family member with dietary restrictions, a disability, or a medication dependency, and wants a practical actionable system rather than generic advice they have to reverse-engineer themselves",
+      "whyItStandsOut": "Every competing product either sells a static universal checklist that buyers must heavily edit or a video course without personalized structure. This product solves the single most common complaint across all five competitors which is lack of personalization by building the customization logic directly into the template system itself. It includes scenario-specific gear and food sourcing recommendations with current retailer links, a calorie and water calculator pre-filled by family size, a climate-adjusted supply swap guide, and a medical needs supplement sheet making it the only product that treats the buyer's exact situation as the starting point rather than an afterthought",
+      "suggestedPrice": "$27"
+    },
+    "content": "# The 72-Hour Kit Customizer: Scenario-Specific Build Plans for Your Family, Climate, and Needs\n\n### A Modular Template Pack for Real Families in Real Places Facing Real Risks\n\n---\n\n## PART ONE: FULL TABLE OF CONTENTS\n\n---\n\n### FRONT MATTER\n- Welcome Letter: Why Generic Kits Fail Real Families\n- How to Use This Template Pack (The Branching System Explained)\n- The 5-Minute Household Intake Questionnaire *(your entry point to the entire system)*\n\n---\n\n### MODULE 1: THE INTAKE QUESTIONNAIRE & YOUR CUSTOM BUILD PATH\n**Section 1.1** \u2014 The Household Profile Form\n- Household size (individuals 1\u20132 / family 3\u20134 / large household 5+)\n- Ages and life stages present (infant, toddler, school-age, teen, adult, senior 65+)\n- Geographic region (coastal, inland, mountain, desert, urban core, rural)\n- Climate zone (tropical, subtropical, temperate, arid, semi-arid, continental, subarctic)\n- Primary disaster risk (select up to 3): hurricane, wildfire, earthquake, tornado, winter storm, flooding, urban grid failure, civil unrest, industrial accident\n- Medical, mobility, or dietary flags (yes/no branching)\n- Pet presence (yes/no branching)\n- Vehicle access and mobility (own vehicle / public transit dependent / mobility device user)\n- Storage space available (apartment closet / garage / basement / vehicle only)\n- Budget tier (essential $75\u2013150 / recommended $150\u2013300 / comprehensive $300\u2013500+)\n\n**Section 1.2** \u2014 How to Read Your Build Path Results\n- Understanding your Primary Scenario Code (PSC)\n- Understanding your Household Modifier Codes (HMC)\n- How to stack modules: which sections apply to you and in what order\n- The \"Baseline First, Customize Second\" rule explained\n\n**Section 1.3** \u2014 Your Personalized Build Summary Sheet *(fill-in template)*\n- Pre-labeled fields for your PSC, HMC flags, budget tier, and storage footprint\n- Space to record your target completion date and budget allocation per category\n\n---\n\n### MODULE 2: THE UNIVERSAL BASELINE KIT (Everyone Starts Here)\n**Section 2.1** \u2014 The Non-Negotiable Core: What Every Kit Must Contain Regardless of Scenario\n- Water: the baseline calculation explained\n- Food: calorie minimums by life stage\n- First aid: the true minimum vs. the \"nice to have\" bloat\n- Communication and navigation tools\n- Light and power\n- Sanitation and hygiene\n- Documents and cash\n\n**Section 2.2** \u2014 The Calorie & Water Calculator Template *(pre-filled by household size)*\n- 1-person / 2-person / 3-4 person / 5-6 person / 7+ person calculation tables\n- Age and activity-level adjustment rows\n- Pregnancy and breastfeeding modifier\n- Heat climate water multiplier (+50% rule explained)\n- 72-hour totals with a 20% buffer baked in\n\n**Section 2.3** \u2014 The Baseline Shopping List Template *(fill-in with checkbox system)*\n- Organized by category with suggested quantity ranges per household size\n- \"Buy now\" tier vs. \"add within 30 days\" tier\n- Estimated cost range per line item\n- Rotation and expiration tracking column\n\n**Section 2.4** \u2014 The Baseline Storage & Packing Guide\n- Bag vs. bin vs. distributed cache: which is right for your living situation\n- Weight limits and ergonomic packing rules (who carries what)\n- Waterproofing your kit on a budget\n- The \"grab order\" system: what leaves the house in the first 90 seconds\n\n---\n\n### MODULE 3: SCENARIO-SPECIFIC BUILD OVERLAYS\n*(Apply the overlay that matches your Primary Scenario Code after completing the baseline)*\n\n**Section 3.1** \u2014 Hurricane & Tropical Storm Overlay (PSC: HUR)\n- Pre-landfall vs. shelter-in-place vs. evacuation sub-scenarios\n- Storm-specific water storage strategies (bathtub bladders, WaterBOB)\n- Wind and water damage documentation prep\n- Fuel strategy",
+    "listing": {
+      "title": "The 72-Hour Kit Customizer: Scenario-Specific Build Plans for Your Family, Climate, and Needs",
+      "tagline": "Stop guessing with generic checklists \u2014 get a personalized 72-hour emergency kit build plan made for your exact household, region, and risks in under an hour.",
+      "description": "Every emergency preparedness checklist you've ever downloaded assumed you live alone, eat anything, have no mobility issues, and face some mythical average disaster. You don't. You have a family with real dietary restrictions, a child or parent with a medication dependency, and you live somewhere with a specific threat profile \u2014 hurricanes, wildfires, winter blackouts, or urban grid failures. Generic advice forces you to reverse-engineer everything yourself, which is exactly why most families never actually finish building their kit. This product was built to eliminate that friction entirely. The 72-Hour Kit Customizer is a modular template pack that starts with a short intake questionnaire and then routes you down a branching build path matched to your household size, climate zone, geographic region, likely disaster scenarios, and any medical or mobility needs in your family. You're not editing someone else's list. You're building from a system that treats your situation as the starting point. Inside the pack you'll find scenario-specific gear and food sourcing recommendations with current retailer links, a calorie and water calculator pre-filled by family size, a climate-adjusted supply swap guide that tells you what to add or remove based on whether you're in a humid Gulf Coast summer or a high-altitude freeze zone, and a dedicated medical needs supplement sheet covering medications, mobility aids, dietary formulas, and chronic condition supplies. Whether you're preparing for a Category 4 landfall, a week-long power outage, or a wildfire evacuation with fifteen minutes notice, this system gives you a completed, actionable, personalized build plan \u2014 not homework. This is the only emergency preparedness product on the market that builds the customization logic directly into the template structure itself, so you stop staring at a checklist wondering if it applies to you and start actually getting your family protected.",
+      "bulletPoints": [
+        "Branching intake questionnaire routes you to a build plan specific to your household size, climate zone, region, and most likely local disaster types \u2014 hurricane, wildfire, winter storm, or urban grid failure",
+        "Built-in calorie and water calculator pre-filled by family size so you know exactly how much food and water to stockpile without doing math from scratch",
+        "Climate-adjusted supply swap guide tells you precisely what to add, remove, or substitute based on your geographic region and seasonal conditions",
+        "Medical needs supplement sheet covers medications, mobility aids, dietary restrictions, infant or elderly care, and chronic condition supplies so no family member gets left out of the plan",
+        "Scenario-specific gear and food sourcing recommendations include current retailer links so you can go from template to cart without hunting for products yourself"
+      ],
+      "price": "$27.00",
+      "tags": [
+        "emergency preparedness",
+        "72-hour kit",
+        "family survival",
+        "disaster readiness",
+        "prepper templates"
+      ],
+      "callToAction": "Get your personalized 72-hour kit build plan now \u2014 your family's exact situation deserves better than a generic checklist."
+    },
+    "title": "The 72-Hour Kit Customizer: Scenario-Specific Build Plans for Your Family, Climate, and Needs",
+    "price": "$27.00",
+    "tagline": "Stop guessing with generic checklists \u2014 get a personalized 72-hour emergency kit build plan made for your exact household, region, and risks in under an hour.",
+    "tags": [
+      "emergency preparedness",
+      "72-hour kit",
+      "family survival",
+      "disaster readiness",
+      "prepper templates"
+    ]
+  },
+  {
     "id": "PRODUCT_20260524_183117",
     "createdAt": "2026-05-24T18:31:17.622153",
     "niche": "True crime enthusiasts who want to write their own cold case ebook",
