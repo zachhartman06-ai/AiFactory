@@ -49,6 +49,6 @@ jobs:
         run: |
           git config --global user.name "Agent Factory Bot"
           git config --global user.email "factory@agentfactory.bot"
-          git add outputs/products.json
+          git add outputs/products.json DAILY_LISTING.md
           git diff --staged --quiet || git commit -m "🏭 Factory run: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
