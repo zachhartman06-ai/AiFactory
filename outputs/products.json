@@ -1,5 +1,95 @@
 [
   {
+    "id": "PRODUCT_20260526_191907",
+    "createdAt": "2026-05-26T19:19:07.421409",
+    "niche": "BJJ and MMA beginners in their first year of training",
+    "research": {
+      "topProducts": [
+        {
+          "title": "Fundamentals of Brazilian Jiu-Jitsu by Rener and Ryron Gracie (Gracie University Online)",
+          "platform": "Gracie University (gracieuniversity.com)",
+          "estimatedPrice": "$197-$297/year",
+          "whyItSells": "Highly structured beginner curriculum from the most recognized BJJ family name, includes video lessons with testing and belt progression tracking, giving beginners a clear roadmap which reduces overwhelm",
+          "weaknesses": "Expensive for true beginners unsure of commitment, limited live sparring context, and some users feel the self-defense focus diverges from sport BJJ that most gyms teach"
+        },
+        {
+          "title": "Dynamic Striking MMA Fundamentals Course",
+          "platform": "Udemy",
+          "estimatedPrice": "$15-$30 (frequent sales)",
+          "whyItSells": "Low price point removes financial risk for beginners, covers striking basics for MMA in digestible video modules, accessible on mobile, and Udemy's algorithm pushes it to fitness-curious buyers",
+          "weaknesses": "Production quality varies, no feedback mechanism or community, content can feel generic and disconnected from real gym training environments"
+        },
+        {
+          "title": "John Danaher's Go Further Faster Series (Leg Locks, Guard Passing, etc.)",
+          "platform": "BJJ Fanatics (bjjfanatics.com)",
+          "estimatedPrice": "$97-$177 per volume",
+          "whyItSells": "Danaher is considered the top BJJ coach in the world, his systematic and conceptual teaching style resonates strongly, and BJJ Fanatics has massive email list and affiliate marketing reach",
+          "weaknesses": "Content depth is often better suited for intermediate players despite beginner marketing, high price per volume adds up quickly, and the lecture-heavy format can lose impatient beginners"
+        },
+        {
+          "title": "Flo Grappling Subscription (FloGrappling)",
+          "platform": "FloGrappling (flograppling.com)",
+          "estimatedPrice": "$12.99-$29.99/month",
+          "whyItSells": "Offers live and on-demand competition footage plus instructional content in one subscription, beginners are motivated by watching high-level matches to emulate techniques, strong brand in the grappling community",
+          "weaknesses": "Not structured as a beginner curriculum, overwhelming content library with no guided learning path, and beginners may struggle to extract actionable lessons from competition footage alone"
+        },
+        {
+          "title": "Stephan Kesting's Roadmap for Brazilian Jiu-Jitsu",
+          "platform": "Grapplearts.com / direct download",
+          "estimatedPrice": "$37-$67",
+          "whyItSells": "Specifically designed for white belts, offers a prioritized learning sequence that solves the most common beginner problem of not knowing what to focus on, affordable one-time price and backed by decades of credibility",
+          "weaknesses": "Older production quality compared to newer competitors, less brand recognition among younger audiences who discover BJJ via Instagram or TikTok, no community or accountability component"
+        }
+      ]
+    },
+    "idea": {
+      "productTitle": "The First Year Survival Kit: Your Weekly BJJ and MMA Progress Tracker and Gym-Ready Cheat Sheet System",
+      "uniqueAngle": "Instead of teaching techniques, this product solves the organizational and psychological chaos of being a beginner by giving them a done-for-you system of weekly tracking sheets, post-class reflection prompts, technique retention checklists, and printable quick-reference cards they bring to the gym to connect what they learn online with what happens on the mat in real life",
+      "format": "template pack",
+      "targetBuyer": "A 25 to 40 year old adult who just signed up at a BJJ or MMA gym, feels lost and overwhelmed after each class, has maybe bought one cheap Udemy course but cannot connect the dots between online content and live training, and wants a structured self-coaching system they can use without a private coach",
+      "whyItStandsOut": "Every existing product either teaches techniques in a vacuum or dumps an overwhelming content library on beginners with no bridge to real gym life. This product does not compete on technique instruction at all. It is the only product that lives inside the gym experience itself through printable and fillable tools including a post-class debrief template, a weekly position focus planner, a sparring notes log, a what to work on this week checklist, and a belt milestone tracker, making it the companion layer that every other product is missing and impossible to replicate with video alone",
+      "suggestedPrice": "$27"
+    },
+    "content": "# The First Year Survival Kit: Your Weekly BJJ and MMA Progress Tracker and Gym-Ready Cheat Sheet System\n\n### A Complete Template Pack for the Overwhelmed Beginner Who Wants a Real System, Not More Videos\n\n---\n\n## FULL TABLE OF CONTENTS\n\n---\n\n### FRONT MATTER\n- Welcome Letter: Why You Feel Lost After Every Class (And Why That's Normal)\n- How to Use This Kit: The 10-Minute Weekly Ritual That Changes Everything\n- The Four Pillars of First-Year Survival: Track, Reflect, Retain, Repeat\n- Quick-Start Guide: What to Print, What to Fill Digitally, and What to Bring to the Gym\n\n---\n\n### MODULE 1: THE FOUNDATION SYSTEM\n**Understanding Why Beginners Fail to Progress (Hint: It's Not Talent)**\n- Section 1.1 \u2014 The Information Avalanche Problem: Why Your Brain Dumps Everything After Class\n- Section 1.2 \u2014 The Missing Layer Between Online Learning and Live Training\n- Section 1.3 \u2014 How to Use This Kit in 10 Minutes Per Week Without Burning Out\n- Section 1.4 \u2014 Your First-Week Setup Checklist: Getting Your System Ready Before You Step on the Mat\n\n---\n\n### MODULE 2: THE POST-CLASS DEBRIEF TEMPLATE SYSTEM\n**Your Weekly Anchor \u2014 The Single Most Important Habit in This Entire Kit**\n- Section 2.1 \u2014 Why Most Beginners Skip Reflection (And What It Costs Them)\n- Section 2.2 \u2014 How to Fill Out Your Post-Class Debrief Template (Step-by-Step Walkthrough)\n- Section 2.3 \u2014 The Post-Class Debrief Template (52 Weekly Fillable Sheets)\n  - Class Date, Gym, Instructor Name\n  - Techniques Covered (Warm-Up, Drilling, Position Work, Sparring Intro)\n  - The \"Three Things I Saw\" Log\n  - The \"One Thing I Tried to Apply\" Field\n  - Confusion Capture Box: What I Didn't Understand and Need to Ask About\n  - Emotional Temperature Check: How I Felt Walking In vs. Walking Out\n  - Body Map: Where I Felt Pain, Tightness, or Fatigue\n  - My One Focus for Next Class\n- Section 2.4 \u2014 Sample Completed Debrief (Full Example with Real Scenarios)\n- Section 2.5 \u2014 The \"Bring It Back\" Column: Connecting Last Week's Confusion to This Week's Class\n\n---\n\n### MODULE 3: THE WEEKLY POSITION FOCUS PLANNER\n**Stop Trying to Learn Everything. Start Owning Something.**\n- Section 3.1 \u2014 The Beginner Trap: Trying to Learn All Positions at Once\n- Section 3.2 \u2014 The Position Focus Method: One Position Per Week, One Concept Per Day\n- Section 3.3 \u2014 How to Choose Your Weekly Focus Position (Decision Tree)\n- Section 3.4 \u2014 The Weekly Position Focus Planner Template (52 Weeks)\n  - Weekly Position Focus Field (e.g., Guard Passing, Side Control Escapes, Takedown Defense)\n  - Why I Chose This Position\n  - What I Already Know About It\n  - What I Want to Learn This Week\n  - Online Resource I'm Connecting to This Week (Course, YouTube, etc.)\n  - Drill I'll Practice at Home (No Partner Needed)\n  - Questions to Ask My Coach or Training Partner\n  - End-of-Week Review: What Clicked? What Didn't?\n- Section 3.5 \u2014 Beginner Position Priority Map: A Suggested 12-Week Rotation for Your First Three Months\n- Section 3.6 \u2014 The \"Connect the Dots\" Column: Linking Your Online Learning to Live Drilling\n\n---\n\n### MODULE 4: THE SPARRING NOTES LOG\n**Turn Every Roll Into a Lesson, Not Just a Survival Exercise**\n- Section 4.1 \u2014 Why Sparring Feels Like Drowning and How to Make It Feel Like Research\n- Section 4.2 \u2014 The Beginner Sparring Mindset Shift: You Are a Scientist, Not a Fighter\n- Section 4.3",
+    "listing": {
+      "title": "The First Year Survival Kit: Weekly BJJ & MMA Progress Tracker + Gym-Ready Cheat Sheet System",
+      "tagline": "Stop leaving every class confused and forgetting everything you learned \u2014 this done-for-you system turns mat chaos into measurable progress, no private coach required.",
+      "description": "You just signed up at a BJJ or MMA gym. You show up, you get humbled, you go home exhausted and can barely remember what you drilled an hour ago. You have watched the YouTube videos. You bought that Udemy course. But none of it sticks because there is no bridge between the screen and the mat. That gap is not a technique problem. It is a system problem \u2014 and this kit fixes it. The First Year Survival Kit is a complete printable and fillable template pack built specifically for beginners in their first 12 months of training. It gives you the organizational backbone and self-coaching structure that most white belts never have access to unless they pay hundreds of dollars for private lessons. Every single tool in this pack was designed to live inside your real gym experience, not replace it.\n\nInside the kit you get a post-class debrief template that takes under five minutes to fill out and locks in everything you learned before it evaporates, a weekly position focus planner so you stop winging it and start building actual game, a sparring notes log that turns every roll into usable data, a what to work on this week checklist that gives you a clear one-page action plan before every session, and a belt milestone tracker so you can see how far you have come even on the days it feels like nothing is working. Every sheet is designed to be printed out and tucked into your gym bag or filled out digitally on your phone or tablet after class.\n\nThis is not a technique course. There are already thousands of those and most of them overwhelm beginners within a week. This kit does something no video course can do \u2014 it sits inside the gym experience itself as a companion layer, helping you reflect, retain, and refocus after every single class. It is the missing piece between all the content you consume and the actual progress you want to make on the mat. Whether you train twice a week or five times a week, this system adapts to your schedule and keeps you moving forward with clarity instead of confusion.\n\nIf you are a 25 to 40 year old adult who is serious about sticking with martial arts but feels lost after every class and has no structured way to track your growth, this kit was made for you. No coach required, no app subscription, no complicated setup. Print it, fill it out, and show up to your next class with a plan. For less than the cost of one takeout meal, you get the self-coaching infrastructure that most beginners spend their entire first year wishing they had.",
+      "bulletPoints": [
+        "Post-Class Debrief Template \u2014 a fast five-minute fill-in sheet that captures what you drilled, what clicked, and what you need to revisit before your brain dumps it overnight",
+        "Weekly Position Focus Planner \u2014 stop training randomly and start building a real game by choosing one position per week and tracking your reps, wins, and adjustments",
+        "Sparring Notes Log \u2014 turn every roll into a learning asset by recording patterns, problems, and breakthroughs from your live training rounds",
+        "What To Work On This Week Checklist \u2014 arrive at every class with a clear one-page priority list so you train with intention instead of just surviving the hour",
+        "Belt Milestone Tracker \u2014 visualize your entire first-year journey with a progress map that keeps you motivated even during the long stretches between visible breakthroughs"
+      ],
+      "price": "$27.00",
+      "tags": [
+        "BJJ beginner",
+        "MMA training",
+        "martial arts tracker",
+        "jiu jitsu progress",
+        "gym tools",
+        "white belt",
+        "training journal",
+        "printable templates"
+      ],
+      "callToAction": "Grab the First Year Survival Kit now and show up to your next class with a real plan \u2014 instant download, print it today, use it tonight."
+    },
+    "title": "The First Year Survival Kit: Weekly BJJ & MMA Progress Tracker + Gym-Ready Cheat Sheet System",
+    "price": "$27.00",
+    "tagline": "Stop leaving every class confused and forgetting everything you learned \u2014 this done-for-you system turns mat chaos into measurable progress, no private coach required.",
+    "tags": [
+      "BJJ beginner",
+      "MMA training",
+      "martial arts tracker",
+      "jiu jitsu progress",
+      "gym tools",
+      "white belt",
+      "training journal",
+      "printable templates"
+    ]
+  },
+  {
     "id": "PRODUCT_20260526_191407",
     "createdAt": "2026-05-26T19:14:07.656998",
     "niche": "BJJ and MMA beginners in their first year of training",
