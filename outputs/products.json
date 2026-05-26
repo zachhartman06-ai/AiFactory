@@ -1,5 +1,97 @@
 [
   {
+    "id": "PRODUCT_20260526_191407",
+    "createdAt": "2026-05-26T19:14:07.656998",
+    "niche": "BJJ and MMA beginners in their first year of training",
+    "research": {
+      "topProducts": [
+        {
+          "title": "Bernardo Faria's BJJ Fundamentals - Be The Grizzly",
+          "platform": "BJJ Fanatics",
+          "estimatedPrice": "$77",
+          "whyItSells": "Taught by a 5x World Champion with a reputation for accessible teaching, covers core positions and escapes that beginners immediately need, and BJJ Fanatics has massive organic traffic and trust in the grappling community",
+          "weaknesses": "Heavily focused on Faria's specific pressure passing game which may not suit all body types; lacks structured curriculum progression so beginners may feel lost on what to study next"
+        },
+        {
+          "title": "John Danaher's Go Further Faster Series (Fundamentals)",
+          "platform": "BJJ Fanatics",
+          "estimatedPrice": "$97",
+          "whyItSells": "Danaher is considered the top BJJ coach in the world and his systematic, conceptual teaching style resonates with beginners who want to understand the 'why' behind techniques, not just the 'how'",
+          "weaknesses": "Very long and dense video content can overwhelm true beginners; Danaher's lecture style is slow-paced and academic which may not suit visual or kinesthetic learners seeking quick wins"
+        },
+        {
+          "title": "Firas Zahabi's MMA Fundamentals Course",
+          "platform": "Tristar Gym Online / Teachable",
+          "estimatedPrice": "$49",
+          "whyItSells": "Zahabi is famous as Georges St-Pierre's coach, lending enormous credibility; the course blends striking and grappling which appeals to MMA beginners who need a combined curriculum rather than sport-specific instruction",
+          "weaknesses": "Less community support and fewer supplemental resources compared to larger platforms; limited updates and no live Q&A components make it feel static for learners who need feedback"
+        },
+        {
+          "title": "Ryan Hall's Defensive Guard & Back Attacks Instructional",
+          "platform": "BJJ Fanatics",
+          "estimatedPrice": "$67",
+          "whyItSells": "Hall's philosophical and principle-based approach to grappling attracts beginners who have been told technique matters more than strength; his defense-first framework is immediately practical for new grapplers getting dominated in sparring",
+          "weaknesses": "Concepts can be too abstract for brand new beginners without a coach to contextualize them; not a structured beginner curriculum so students must self-direct their learning path"
+        },
+        {
+          "title": "Stephan Kesting's Grappling Roadmap",
+          "platform": "Grapplearts.com / Digitally delivered",
+          "estimatedPrice": "$37",
+          "whyItSells": "Specifically designed and marketed as a structured beginner roadmap, fills the gap of 'what should I learn first and in what order'; Kesting has 30+ years of experience and a trusted brand among hobbyist grapplers",
+          "weaknesses": "Production quality is older and less polished than newer BJJ Fanatics releases; lacks the celebrity instructor brand power that drives impulse purchases on larger platforms"
+        }
+      ]
+    },
+    "idea": {
+      "productTitle": "The First 90 Days on the Mat: A Weekly Skill Tracker and Survival Guide for BJJ and MMA Beginners",
+      "uniqueAngle": "A structured, week-by-week checklist and reflection system that tells beginners exactly what to focus on, in what order, and how to track their progress during their first 90 days of training, regardless of which instructor or gym they train under",
+      "format": "template pack",
+      "targetBuyer": "An adult aged 25-45 who just signed up at a local BJJ or MMA gym, feels completely lost after their first few classes, is getting tapped out constantly, and wants a personal roadmap and progress tracker they can use alongside any instructor or video course they already own",
+      "whyItStandsOut": "Every competitor either teaches specific techniques tied to their personal game or delivers dense conceptual content with no structured progression roadmap. None of them solve the beginner's core anxiety: not knowing what to learn next or how to measure improvement. This product is curriculum-agnostic, meaning it works as a companion layer on top of any gym, coach, or video course. It includes a 90-day weekly focus checklist, a sparring reflection journal template, a positions-survived versus positions-escaped tracker, a tap-out analysis log to identify recurring weak spots, and a monthly milestone badge system for motivation. It replaces confusion with a clear daily ritual that takes under five minutes and makes beginners feel progress even when they are still losing every roll.",
+      "suggestedPrice": "$27"
+    },
+    "content": "# The First 90 Days on the Mat: A Weekly Skill Tracker and Survival Guide for BJJ and MMA Beginners\n\n---\n\n## FULL TABLE OF CONTENTS\n\n---\n\n### WELCOME SECTION\n- How to Use This Pack (Read This First)\n- The Beginner's Honest Reality Check\n- Why Most Beginners Quit (And How This Pack Prevents It)\n- The 5-Minute Daily Ritual That Changes Everything\n\n---\n\n### MODULE 1: YOUR 90-DAY ROADMAP\n**Section 1.1 \u2014 The Three Phases of Your First 90 Days**\n- Phase 1: Survive (Days 1\u201330)\n- Phase 2: Understand (Days 31\u201360)\n- Phase 3: Apply (Days 61\u201390)\n\n**Section 1.2 \u2014 The Curriculum-Agnostic Promise**\n- How This Pack Works Alongside Any Gym or Coach\n- What You Should NOT Try to Learn in 90 Days\n- The Danger of YouTube Rabbit Holes (And How to Use Them Right)\n\n**Section 1.3 \u2014 Your Weekly Focus Schedule (Master Overview)**\n- Week-by-Week Priority Breakdown (Weeks 1\u201313)\n- How to Read and Use the Weekly Focus Cards\n- What to Do When Your Gym Teaches Something Different\n\n---\n\n### MODULE 2: THE 13 WEEKLY FOCUS CARDS\n*(One card per week, each containing: This Week's Single Focus, What to Watch For in Class, Positional Awareness Drill, Partner Drill Recommendation, Weekly Check-In Questions, and the \"Don't Worry About This Yet\" Reminder)*\n\n- **Week 1 Focus Card** \u2014 Just Show Up and Stay Safe\n- **Week 2 Focus Card** \u2014 Learning How to Fall (Breakfalls and Posture)\n- **Week 3 Focus Card** \u2014 The Hip Escape (Shrimping) as Your First Superpower\n- **Week 4 Focus Card** \u2014 Understanding Guard (Top vs. Bottom, Closed vs. Open)\n- **Week 5 Focus Card** \u2014 Survival Posture in Mount and Side Control\n- **Week 6 Focus Card** \u2014 Your First Submission Defense Priorities\n- **Week 7 Focus Card** \u2014 The Bridge and Roll (Upa) \u2014 Your First Escape\n- **Week 8 Focus Card** \u2014 Recognizing Positions by Feel, Not Just by Sight\n- **Week 9 Focus Card** \u2014 Introduction to Passing the Guard\n- **Week 10 Focus Card** \u2014 Breaking Grips and Controlling Framing\n- **Week 11 Focus Card** \u2014 Your First Offensive Submission (Choose One Only)\n- **Week 12 Focus Card** \u2014 Chaining Movements \u2014 When Plan A Fails\n- **Week 13 Focus Card** \u2014 The 90-Day Review: What You Know, What You've Built\n\n---\n\n### MODULE 3: THE POSITIONS TRACKER\n**Section 3.1 \u2014 How to Use the Positions Tracker**\n- Survived vs. Escaped vs. Advanced: Understanding the Three Outcomes\n- Why \"Not Getting Tapped\" Counts as a Win\n\n**Section 3.2 \u2014 The Weekly Positions Tracker Template**\n*(Full fill-in template with columns for: Position Encountered, Times Survived, Times Escaped, Times Advanced From, Notes on What Worked)*\n\n**Section 3.3 \u2014 The 30-Day Positions Progress Review**\n- Review Template: Month 1\n- Review Template: Month 2\n- Review Template: Month 3\n\n**Section 3.4 \u2014 Reading Your Own Data**\n- What Patterns to Look For\n- The \"Stuck Position\" Warning Sign and What to Do\n- Celebrating Small Wins: What the Numbers Are Actually Telling You\n\n---\n\n### MODULE 4: THE TAP-OUT ANALYSIS LOG\n**Section 4.1 \u2014 Why Tap-Outs Are Data, Not Defeats**\n- Reframing the Tap in Your Mind\n- The Difference Between \"I Lost\" and \"I Have a Recurring Leak\"\n\n**Section 4.2 \u2014 The Tap-Out Log Template**\n*(Full fill-in template per session with: Date, Partner Size/Experience Level, Position You Were In Before the Tap,",
+    "listing": {
+      "title": "The First 90 Days on the Mat: A Weekly Skill Tracker and Survival Guide for BJJ and MMA Beginners",
+      "tagline": "Stop feeling lost after every class \u2014 get the week-by-week roadmap that tells you exactly what to focus on, what to track, and how to prove you're getting better even when you're still getting tapped out.",
+      "description": "You signed up. You showed up. And then you got crushed, over and over, with no idea what you're supposed to be learning or whether any of it is sticking. Every instructor teaches their own system, every YouTube video pulls you in a different direction, and nobody has handed you a simple answer to the one question that's quietly killing your motivation: what should I be working on right now? That's exactly what this template pack solves. The First 90 Days on the Mat is a structured, week-by-week companion system designed specifically for BJJ and MMA beginners in their first three months of training. It works alongside any gym, any coach, and any video course you already own \u2014 because it's not about teaching you techniques. It's about giving you the personal progress infrastructure that nobody else provides.",
+      "description2": "Inside you'll get a 90-day weekly focus checklist that breaks your first three months into clear, prioritized learning phases so you always know what deserves your attention this week and what can wait. You'll get a sparring reflection journal template that turns every roll \u2014 win or loss \u2014 into a five-minute debrief that actually builds self-awareness and game sense faster than just showing up and grinding. You'll get a positions-survived versus positions-escaped tracker so you can measure real defensive growth even during a stretch where you're losing every single match. And you'll get a tap-out analysis log that reveals your recurring weak spots by pattern, not just by memory, so you and your coach can address the actual holes in your game instead of guessing.",
+      "description3": "Most beginners quit in the first 90 days \u2014 not because they're not tough enough, but because they can't see their own progress and assume they're failing. This system fixes that. The monthly milestone badge framework gives you concrete, motivating checkpoints to hit at days 30, 60, and 90, so you feel the forward momentum that keeps you coming back when everything else feels hard. The entire daily ritual takes under five minutes. You don't need to overhaul your schedule or your training. You just need a layer of structure that makes the chaos make sense. If you've ever left the gym feeling confused, demoralized, or like everyone else knows a secret you don't \u2014 this is the tool that was missing from your training.",
+      "bulletPoints": [
+        "90-Day Weekly Focus Checklist \u2014 know exactly what skill area to prioritize each week of your first three months, regardless of which gym or coach you train under",
+        "Sparring Reflection Journal Template \u2014 turn every roll into a structured five-minute debrief that builds self-awareness and accelerates your learning curve",
+        "Positions Survived vs. Escaped Tracker \u2014 measure and celebrate real defensive progress even when you're still losing every sparring session",
+        "Tap-Out Analysis Log \u2014 identify the recurring patterns in your weak spots so you can stop making the same mistakes and start fixing the actual holes in your game",
+        "Monthly Milestone Badge System \u2014 hit motivating checkpoints at Day 30, 60, and 90 that make your progress visible, tangible, and worth celebrating"
+      ],
+      "price": "$27.00",
+      "tags": [
+        "BJJ beginner",
+        "MMA training",
+        "jiu jitsu tracker",
+        "martial arts progress journal",
+        "grappling template",
+        "beginner roadmap",
+        "sparring journal",
+        "BJJ worksheet"
+      ],
+      "callToAction": "Get instant access and start your first 90 days with a real roadmap \u2014 download the full template pack now for just $27."
+    },
+    "title": "The First 90 Days on the Mat: A Weekly Skill Tracker and Survival Guide for BJJ and MMA Beginners",
+    "price": "$27.00",
+    "tagline": "Stop feeling lost after every class \u2014 get the week-by-week roadmap that tells you exactly what to focus on, what to track, and how to prove you're getting better even when you're still getting tapped out.",
+    "tags": [
+      "BJJ beginner",
+      "MMA training",
+      "jiu jitsu tracker",
+      "martial arts progress journal",
+      "grappling template",
+      "beginner roadmap",
+      "sparring journal",
+      "BJJ worksheet"
+    ]
+  },
+  {
     "id": "PRODUCT_20260525_123652",
     "createdAt": "2026-05-25T12:36:52.851773",
     "niche": "Preppers and survivalists building 72-hour emergency kits",
