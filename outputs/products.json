@@ -1,5 +1,101 @@
 [
   {
+    "id": "PRODUCT_20260527_122453",
+    "createdAt": "2026-05-27T12:24:53.753190",
+    "niche": "People learning to invest with under $1000",
+    "research": {
+      "topProducts": [
+        {
+          "title": "The Little Book of Common Sense Investing (eBook)",
+          "platform": "Amazon Kindle",
+          "estimatedPrice": "$14",
+          "whyItSells": "John Bogle's trusted brand and Vanguard credibility make it a go-to for beginners; simple index fund philosophy feels actionable with small amounts of capital",
+          "weaknesses": "Does not address specific platforms or apps for small investors; no interactive components or step-by-step account setup guidance"
+        },
+        {
+          "title": "Investing for Beginners \u2013 Udemy Course",
+          "platform": "Udemy",
+          "estimatedPrice": "$15-$20 (on sale from $84)",
+          "whyItSells": "Frequently discounted to under $20, covers stocks, ETFs, and budgeting basics in digestible video format; high review volume builds social proof among nervous first-time investors",
+          "weaknesses": "Content can feel generic and outdated; does not tailor strategies specifically to sub-$1000 portfolios or fractional share investing"
+        },
+        {
+          "title": "Stock Market Investing for Beginners (Kindle eBook) by Tycho Press",
+          "platform": "Amazon Kindle",
+          "estimatedPrice": "$8",
+          "whyItSells": "Ultra-low price point attracts budget-conscious beginners; covers fundamental concepts like P/E ratios, diversification, and compound interest in plain language",
+          "weaknesses": "Lacks coverage of modern micro-investing apps like Acorns or Robinhood; no community or accountability component to keep learners engaged"
+        },
+        {
+          "title": "Build Wealth with $500 \u2013 Teachable Course",
+          "platform": "Teachable / creator-direct",
+          "estimatedPrice": "$27-$47",
+          "whyItSells": "Niche positioning directly speaks to under-$1000 investors; creators market heavily on TikTok and Instagram targeting younger audiences anxious about starting small",
+          "weaknesses": "Quality varies widely by creator; limited regulation or credentialing means advice can be oversimplified or even misleading without financial disclaimers"
+        },
+        {
+          "title": "Acorns + Learn In-App Educational Content (freemium)",
+          "platform": "Acorns App",
+          "estimatedPrice": "$3/month subscription",
+          "whyItSells": "Combines investing action with education in one platform; round-up feature makes investing feel effortless for users with minimal capital; massive user base drives word-of-mouth",
+          "weaknesses": "Monthly fee is proportionally high for very small portfolios under $100; educational content is shallow and primarily serves to retain users rather than build deep financial literacy"
+        }
+      ]
+    },
+    "idea": {
+      "productTitle": "The $500 Stack: Your Step-by-Step App-First Investment Playbook for Beginners with Under $1000",
+      "uniqueAngle": "Instead of teaching abstract theory, this guide is built entirely around the actual apps beginners already have on their phones \u2014 Acorns, Robinhood, Fidelity, and Public \u2014 with real screenshots, exact tap-by-tap account setup walkthroughs, and a modular checklist system that adapts to whether you have $50, $250, or $500 to start. Every strategy is calibrated specifically for sub-$1000 fractional share investing with no fluff about concepts that only matter at $10,000+.",
+      "format": "guide + checklist system",
+      "targetBuyer": "A 22-to-35-year-old who has downloaded at least one investing app but never funded it, earns under $50K per year, feels embarrassed that they do not know where to start, and has been paralyzed by generic advice that assumes more money or more knowledge than they have",
+      "whyItStandsOut": "Every competing product either teaches theory without showing the actual platforms, covers platforms without tailoring advice to tiny portfolios, or bundles education inside an app that profits from keeping users uninformed. This product is the only one that bridges the gap between opening an app and making a confident, informed first investment \u2014 with legally responsible disclaimers, a real accountability checklist, and zero content that assumes you already have money to lose",
+      "suggestedPrice": "$17"
+    },
+    "content": "# The $500 Stack: Your Step-by-Step App-First Investment Playbook for Beginners with Under $1000\n\n---\n\n## LEGAL DISCLAIMER\n\n*This guide is for educational and informational purposes only. Nothing in this document constitutes financial, legal, or tax advice. All investing involves risk, including the possible loss of principal. Past performance of any investment does not guarantee future results. The apps, platforms, and investment options mentioned are referenced for educational purposes only \u2014 not as endorsements or recommendations. Always read the terms, fee disclosures, and risk documents provided by any platform before investing. Consult a licensed financial advisor for advice specific to your situation.*\n\n---\n\n## FULL TABLE OF CONTENTS\n\n---\n\n### FRONT MATTER\n- Legal Disclaimer\n- A Note Before You Start: Why This Guide Exists\n- How to Use This Guide (Read This First)\n- The Three Starting Tiers \u2014 Find Yours in 60 Seconds\n  - Tier 1: You have $50\u2013$149\n  - Tier 2: You have $150\u2013$299\n  - Tier 3: You have $300\u2013$500+\n\n---\n\n### MODULE 1: CLEARING THE RUNWAY\n**Getting Your Head Right Before You Get Your Money Right**\n\n- Chapter 1.1 \u2014 The Real Reason You Haven't Started (It's Not Laziness)\n- Chapter 1.2 \u2014 The Four Lies You've Been Told About Investing With Small Money\n- Chapter 1.3 \u2014 What Investing Actually Is When You Have Under $1,000\n- Chapter 1.4 \u2014 The One Number That Changes Everything: Your \"Okay to Lose\" Figure\n- Chapter 1.5 \u2014 The 48-Hour Rule: Why You Shouldn't Invest Tomorrow\n- \u2705 Module 1 Checklist: Runway Cleared\n\n---\n\n### MODULE 2: PICKING YOUR PLATFORM\n**A Brutally Honest App Comparison for Real Beginners**\n\n- Chapter 2.1 \u2014 Why the App You Pick Actually Matters (Fees, Features, and Your Brain)\n- Chapter 2.2 \u2014 Acorns: Full Breakdown\n  - What it is, who it's actually for\n  - Real fee math on small balances\n  - Best use case for under-$1,000 investors\n  - Tap-by-tap account setup walkthrough\n  - The one thing Acorns does better than any competitor\n  - The one thing that will frustrate you about Acorns\n- Chapter 2.3 \u2014 Robinhood: Full Breakdown\n  - What it is, who it's actually for\n  - Real fee math on small balances\n  - Best use case for under-$1,000 investors\n  - Tap-by-tap account setup walkthrough\n  - The one thing Robinhood does better than any competitor\n  - The one thing that will frustrate you about Robinhood\n- Chapter 2.4 \u2014 Fidelity: Full Breakdown\n  - What it is, who it's actually for\n  - Real fee math on small balances\n  - Best use case for under-$1,000 investors\n  - Tap-by-tap account setup walkthrough\n  - The one thing Fidelity does better than any competitor\n  - The one thing that will frustrate you about Fidelity\n- Chapter 2.5 \u2014 Public: Full Breakdown\n  - What it is, who it's actually for\n  - Real fee math on small balances\n  - Best use case for under-$1,000 investors\n  - Tap-by-tap account setup walkthrough\n  - The one thing Public does better than any competitor\n  - The one thing that will frustrate you about Public\n- Chapter 2.6 \u2014 The Head-to-Head Comparison Chart\n- Chapter 2.7 \u2014 The \"Which App Is Mine?\" Decision Flowchart\n- \u2705 Module 2 Checklist: Platform Selected and Account Open\n\n---\n\n### MODULE 3: THE VOCABULARY MINIMUM\n**The 14 Terms You Actually Need \u2014 Nothing Else**\n\n- Chapter 3.1 \u2014 Why Most Glossaries Fail Beginners\n- Chapter 3.2 \u2014 The 14 Terms Defined in Plain Language, With App-Specific Examples\n  - Fractional Share",
+    "listing": {
+      "title": "The $500 Stack: Your Step-by-Step App-First Investment Playbook for Beginners with Under $1000",
+      "tagline": "You already have the app. This guide tells you exactly what to tap next.",
+      "description": "You downloaded Robinhood six months ago. Maybe Acorns too. They're sitting on your phone, funded with exactly zero dollars, because every article you've read either talks down to you or assumes you already have $10,000 and a financial advisor on speed dial. You're not bad with money. You're just missing a guide that meets you where you actually are. That's exactly what this is. The $500 Stack is a tap-by-tap, screenshot-backed investment playbook built specifically around the apps already on your phone \u2014 Acorns, Robinhood, Fidelity, and Public \u2014 with real account setup walkthroughs, plain-English explanations, and zero theory that only matters once you're rich.",
+      "description2": "Every strategy inside is calibrated for sub-$1000 fractional share investing. Whether you have $50, $250, or $500 to start, the modular checklist system adapts to your exact situation so you always know your next move. No vague advice about 'diversifying your portfolio.' No chapters about options trading you can't afford. Just clear, legally responsible, beginner-honest guidance from the moment you open an app to the moment you make your first confident, informed investment.",
+      "description3": "This guide exists because every competing product either teaches theory without showing the actual platforms, walks through platforms without tailoring anything to tiny portfolios, or is built inside an app that quietly profits from keeping you confused. The $500 Stack is the only resource that bridges the gap between 'I downloaded this thing' and 'I actually know what I'm doing' \u2014 with a real accountability checklist to keep you moving, disclaimers that respect your intelligence, and content that never once assumes you have money to lose. For $17, you get the clarity that no free article, YouTube rabbit hole, or Reddit thread has ever actually given you.",
+      "bulletPoints": [
+        "Tap-by-tap account setup walkthroughs with real screenshots for Acorns, Robinhood, Fidelity, and Public \u2014 no guessing, no Googling, no getting stuck",
+        "A modular checklist system that adapts to your starting amount \u2014 whether you have $50, $250, or $500, you always know your exact next step",
+        "Fractional share strategies built specifically for portfolios under $1000, so you're never reading advice written for someone with ten times your budget",
+        "Plain-English breakdowns of every key term, fee, and feature you'll actually encounter in these apps \u2014 with zero jargon that doesn't apply to you yet",
+        "A built-in accountability checklist and legally responsible disclaimers so you can move forward with real confidence instead of anxious guessing"
+      ],
+      "price": "$17.00",
+      "tags": [
+        "investing for beginners",
+        "personal finance",
+        "stock market basics",
+        "fractional shares",
+        "Robinhood guide",
+        "Acorns guide",
+        "beginner investor",
+        "under 1000 investing",
+        "money for millennials",
+        "financial literacy"
+      ],
+      "callToAction": "Get instant access for $17 \u2014 and finally fund that app you've been staring at."
+    },
+    "title": "The $500 Stack: Your Step-by-Step App-First Investment Playbook for Beginners with Under $1000",
+    "price": "$17.00",
+    "tagline": "You already have the app. This guide tells you exactly what to tap next.",
+    "tags": [
+      "investing for beginners",
+      "personal finance",
+      "stock market basics",
+      "fractional shares",
+      "Robinhood guide",
+      "Acorns guide",
+      "beginner investor",
+      "under 1000 investing",
+      "money for millennials",
+      "financial literacy"
+    ]
+  },
+  {
     "id": "PRODUCT_20260526_191907",
     "createdAt": "2026-05-26T19:19:07.421409",
     "niche": "BJJ and MMA beginners in their first year of training",
