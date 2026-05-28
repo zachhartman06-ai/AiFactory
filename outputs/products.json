@@ -1,5 +1,97 @@
 [
   {
+    "id": "PRODUCT_20260528_123322",
+    "createdAt": "2026-05-28T12:33:22.067972",
+    "niche": "Budget travelers doing international trips under $50/day",
+    "research": {
+      "topProducts": [
+        {
+          "title": "Nomadic Matt's Super Cheap Insider Guides",
+          "platform": "NomadicMatt.com",
+          "estimatedPrice": "$15-$20",
+          "whyItSells": "Highly trusted brand with decade-long authority in budget travel; destination-specific guides with day-by-day budget breakdowns, hostel recommendations, and free activity lists appeal directly to sub-$50/day travelers",
+          "weaknesses": "Guides can become outdated quickly as prices and visa rules change; lacks real-time updates and interactive features; limited coverage outside popular backpacker destinations"
+        },
+        {
+          "title": "Budget Travel Itinerary Templates & Spreadsheets",
+          "platform": "Etsy",
+          "estimatedPrice": "$5-$15",
+          "whyItSells": "Low price point removes purchase hesitation; editable Google Sheets and Excel templates for daily budget tracking, currency conversion, and expense categories resonate with cost-conscious planners who want control over every dollar",
+          "weaknesses": "Highly commoditized with hundreds of similar listings; no personalization or destination-specific data included; buyers often leave disappointed by lack of actual travel tips or insider knowledge"
+        },
+        {
+          "title": "The Points Guy / Budget Travel Hacking eBooks & Courses",
+          "platform": "Gumroad / Teachable",
+          "estimatedPrice": "$27-$47",
+          "whyItSells": "Teaches flight and accommodation hacking strategies like credit card points, mistake fares, and hostel loyalty programs that enable international travel well under $50/day; actionable ROI makes the price easy to justify",
+          "weaknesses": "Points and miles strategies are primarily US-centric and less applicable to non-American travelers; rapidly changing airline policies can make content obsolete within months"
+        },
+        {
+          "title": "Lonely Planet Digital Destination Guides",
+          "platform": "Lonely Planet App / Google Play / Apple App Store",
+          "estimatedPrice": "$10-$18",
+          "whyItSells": "Established global brand trust; offline access is critical for budget travelers avoiding expensive roaming data; covers budget accommodation, street food, and free attractions with mapped itineraries for over 150 countries",
+          "weaknesses": "Content updates are infrequent despite digital format; budget recommendations often skew slightly above the true backpacker price range; app interface criticized as clunky compared to newer competitors"
+        },
+        {
+          "title": "Budget Backpacker Masterclass: Travel the World for $40/Day",
+          "platform": "Udemy",
+          "estimatedPrice": "$12-$20 (on sale)",
+          "whyItSells": "Video-based learning appeals to younger traveler demographics; covers end-to-end budget strategy including cheap flights, couchsurfing, work exchanges, and food budgeting; Udemy's frequent 90% discount sales drive high volume purchases",
+          "weaknesses": "Quality varies significantly by instructor with little vetting; course content is often generic and not destination-specific; students report lack of community or ongoing support after purchase"
+        }
+      ]
+    },
+    "idea": {
+      "productTitle": "The $50/Day Field-Verified Country Kit: Southeast Asia Edition",
+      "uniqueAngle": "A quarterly-updated, destination-specific bundle combining a living Google Sheet budget tracker pre-loaded with real current prices (sourced from traveler submissions dated within 90 days), a printable daily decision checklist, and a one-page accommodation tier map showing exactly which neighborhoods to sleep in to stay under budget \u2014 all verified by boots-on-ground contributors, not editorial teams",
+      "format": "template pack",
+      "targetBuyer": "A 24-32 year old first-time solo international traveler from a non-US country who has a confirmed flight to Southeast Asia within 60 days, owns a smartphone but not a credit card with travel rewards, and feels paralyzed by outdated blog posts with conflicting price information",
+      "whyItStandsOut": "Every competitor either sells inspiration without current data, sells templates without destination context, or sells hacks that only work for American credit card holders. This product solves all three gaps simultaneously by bundling real-time crowdsourced pricing data directly inside editable planning templates for one specific region, making it the only product where the tracker and the intel are the same document rather than separate purchases",
+      "suggestedPrice": "$19"
+    },
+    "content": "# The $50/Day Field-Verified Country Kit: Southeast Asia Edition\n### Complete Content Outline + Sample Content\n\n---\n\n## PRODUCT OVERVIEW BRIEF\n\n**Format:** Template Pack (Google Sheets tracker + printable PDFs + neighborhood maps)\n**Update Cycle:** Quarterly (prices sourced from traveler submissions within 90 days)\n**Coverage:** 6 core Southeast Asian destinations: Bangkok, Chiang Mai, Hanoi, Ho Chi Minh City, Bali (Ubud + Canggu), Siem Reap\n**Price:** $19 USD\n**Delivery:** Instant download via Gumroad or Payhip \u2014 Google Sheet link (make a copy to edit) + PDF bundle\n\n---\n\n## FULL TABLE OF CONTENTS\n\n---\n\n### PART 0: START HERE (Onboarding Pack \u2014 PDF, 2 pages)\n- 0.1 \u2014 How This Kit Works (Read in 4 Minutes Before You Touch Anything)\n- 0.2 \u2014 What \"Field-Verified\" Actually Means (Data sourcing methodology, submission dates)\n- 0.3 \u2014 How to Copy Your Google Sheet and Set Your Home Currency\n- 0.4 \u2014 The Three Documents You'll Use Every Single Day\n\n---\n\n### PART 1: THE LIVING BUDGET TRACKER (Google Sheet \u2014 Primary Tool)\n\n**Tab 1: Dashboard**\n- 1.1 \u2014 Your $50/Day Target Visualized (Daily spend gauge, color-coded green/yellow/red)\n- 1.2 \u2014 Running Total vs. Budget Remaining\n- 1.3 \u2014 Category Breakdown Donut Chart (auto-generated from entries)\n- 1.4 \u2014 \"Cushion Days\" Calculator (how many days you can overspend before hitting your total limit)\n- 1.5 \u2014 Currency Selector (dropdown: USD, EUR, AUD, GBP, SGD, PHP, INR, MYR \u2014 auto-converts all prices)\n\n**Tab 2: Pre-Loaded Price Reference (The Core Intelligence Layer)**\n- 1.6 \u2014 Accommodation Price Benchmarks by City + Neighborhood (sourced, dated, rated)\n- 1.7 \u2014 Street Food & Restaurant Price Index (per meal category: breakfast/lunch/dinner/snack)\n- 1.8 \u2014 Transport Cost Matrix (tuk-tuk, Grab, bus, train, motorbike rental \u2014 city by city)\n- 1.9 \u2014 Entry Fees & Activity Costs (temples, tours, cooking classes, diving \u2014 with \"skip it\" ratings)\n- 1.10 \u2014 SIM Card & Data Costs by Country (current, with carrier names)\n- 1.11 \u2014 Laundry, Water, Pharmacy Basics (the \"invisible costs\" section most budgets miss)\n- 1.12 \u2014 Last Verified Date Column (every row has a submission timestamp)\n\n**Tab 3: Daily Log**\n- 1.13 \u2014 Date + City + Day Number Auto-Fill\n- 1.14 \u2014 Expense Entry Rows (Category dropdown, Description, Amount in local currency, Auto-converted total)\n- 1.15 \u2014 \"Over/Under\" Daily Summary Line\n- 1.16 \u2014 Notes Column (why you overspent, what you'd do differently \u2014 searchable)\n\n**Tab 4: Trip Planner**\n- 1.17 \u2014 Itinerary Grid (destination, nights, estimated daily budget, accommodation pre-selected)\n- 1.18 \u2014 Transport Between Cities Calculator (enter route, get estimated cost + time)\n- 1.19 \u2014 Buffer Budget Row (the \"things go wrong\" fund \u2014 pre-set at 8%)\n- 1.20 \u2014 Total Trip Cost Projection (auto-calculates from itinerary)\n\n**Tab 5: Contributor Submission Form (Living Data Layer)**\n- 1.21 \u2014 How to Submit a Price Update (keeps the doc alive after purchase)\n- 1.22 \u2014 Submission Guidelines (what counts as valid data)\n- 1.23 \u2014 How Buyers Get Quarterly Updates (re-download link, changelog)\n\n---\n\n### PART 2: THE DAILY DECISION CHECKLIST (Printable PDF \u2014 Single Sheet, Front + Back)\n\n**Morning Side (Front)**",
+    "listing": {
+      "title": "The $50/Day Field-Verified Country Kit: Southeast Asia Edition",
+      "tagline": "Stop guessing. Start with real prices, real neighborhoods, and a real daily plan \u2014 crowdsourced by travelers who were there in the last 90 days.",
+      "description": "You have a flight booked. You have a budget. And you have 47 browser tabs open with blog posts from 2019 telling you hostels cost $8 a night in places where they now cost $22. That gap between the advice you can find and the reality waiting for you is exactly where first-time solo travelers blow their budget on day three and spend the rest of the trip stressed. This kit exists to close that gap before you board the plane. Every price inside the living Google Sheet tracker was submitted by a real traveler who physically paid it within the last 90 days \u2014 not estimated by an editorial team working from a press trip they took two years ago. The spreadsheet is already built. You just open it, enter your destination, and watch a realistic daily budget appear based on what people are actually spending right now.",
+      "description2": "The kit bundles three tools that work as one system. The pre-loaded Google Sheet budget tracker comes populated with current hostel, guesthouse, street food, transport, and activity prices across the major Southeast Asia destinations, organized by city so you can compare costs before you decide where to go next. The printable daily decision checklist walks you through every spending choice you will face before 10am \u2014 accommodation checkout, breakfast, transport, SIM top-up, entrance fees \u2014 so nothing ambushes you. The one-page neighborhood accommodation tier map shows you exactly which areas in each city keep you under budget without putting you in an unsafe or inconvenient location, because proximity to tourist centers costs money and this map tells you precisely how much.",
+      "description3": "This is not built for American credit card hackers or people chasing points. It is built for a traveler with a debit card, a smartphone, and a confirmed departure date who needs honest, usable, destination-specific information right now. No affiliate links. No vague ranges. No 'it depends.' Just a document you open, edit with your own numbers, and carry through your entire trip as your single source of financial truth. The kit is updated every quarter with fresh contributor submissions, and your one-time purchase includes access to every future update for the Southeast Asia edition.",
+      "bulletPoints": [
+        "Pre-loaded Google Sheet tracker with real prices submitted by travelers within the last 90 days \u2014 covering hostels, guesthouses, street food, local transport, SIM cards, and popular activities across Southeast Asia's most-visited cities",
+        "One-page neighborhood accommodation tier map for each major destination showing exactly which areas keep you under $50/day, which areas will quietly push you over, and why \u2014 no guessing, no wasted booking fees",
+        "Printable daily decision checklist that walks you through every spending category before 10am so surprise costs stop derailing your daily budget mid-trip",
+        "Zero credit card dependency \u2014 every strategy, price, and recommendation is designed for debit card and cash travelers from any country, not just US cardholders with travel rewards",
+        "Quarterly updates included at no extra cost, so the prices inside your tracker stay accurate whether you leave in three weeks or three months \u2014 and the Google Sheet is fully editable so you can log your own real spending as you go"
+      ],
+      "price": "$19.00",
+      "tags": [
+        "budget travel",
+        "Southeast Asia",
+        "travel planning",
+        "solo travel",
+        "google sheet template",
+        "backpacking",
+        "travel budget tracker",
+        "first-time traveler"
+      ],
+      "callToAction": "Get the kit, open the Sheet, and know exactly what your first week will cost before you land \u2014 buy now for $19."
+    },
+    "title": "The $50/Day Field-Verified Country Kit: Southeast Asia Edition",
+    "price": "$19.00",
+    "tagline": "Stop guessing. Start with real prices, real neighborhoods, and a real daily plan \u2014 crowdsourced by travelers who were there in the last 90 days.",
+    "tags": [
+      "budget travel",
+      "Southeast Asia",
+      "travel planning",
+      "solo travel",
+      "google sheet template",
+      "backpacking",
+      "travel budget tracker",
+      "first-time traveler"
+    ]
+  },
+  {
     "id": "PRODUCT_20260527_122453",
     "createdAt": "2026-05-27T12:24:53.753190",
     "niche": "People learning to invest with under $1000",
