@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-06-02T16:50:24.927773",
+  "totalScanned": {
+    "redditTitles": 0,
+    "autocompleteResults": 120
+  },
+  "painPoints": [
+    {
+      "problem": "People repeatedly fight with their romantic partner or spouse and cannot break the cycle of conflict",
+      "nicheStatement": "Couples who keep having the same arguments with their partner and want to break the conflict cycle",
+      "evidenceCount": 6,
+      "severity": "high",
+      "productFormat": "guide",
+      "suggestedPrice": "$17.99",
+      "competitionLevel": "medium",
+      "score": 9,
+      "reasoning": "Six distinct relationship conflict searches (boyfriend, husband, girlfriend, partner, fiance, mom) signal a massive recurring need. The repetitive framing 'I keep fighting' indicates chronic pain, not a one-time issue. Digital guides on conflict scripts, de-escalation templates, and communication frameworks are highly sellable. Not dominated by a single mega-brand the way therapy apps are. Specific enough to build a focused product (e.g. scripts for the top 10 recurring couple fights)."
+    },
+    {
+      "problem": "People dealing with burnout don't know how to recognize it, recover from it, or prevent it from recurring",
+      "nicheStatement": "Overwhelmed professionals experiencing burnout who need a structured recovery and prevention plan",
+      "evidenceCount": 2,
+      "severity": "high",
+      "productFormat": "guide",
+      "suggestedPrice": "$19.99",
+      "competitionLevel": "low",
+      "score": 9,
+      "reasoning": "Burnout appears explicitly in the 'how to deal with' cluster alongside anxiety and depression, signaling it's searched at the same emotional urgency level. Unlike depression or anxiety, burnout is NOT dominated by licensed therapy platforms, making digital product competition lower. A structured burnout recovery guide with self-assessment, boundary-setting templates, and recharge protocols is a clear, sellable product. High severity and growing cultural relevance post-pandemic increases demand."
+    },
+    {
+      "problem": "People struggle with chronic sleep onset issues and cannot fall or stay asleep at night",
+      "nicheStatement": "Adults who lie awake at night unable to fall asleep and want a non-medication solution",
+      "evidenceCount": 4,
+      "severity": "high",
+      "productFormat": "checklist",
+      "suggestedPrice": "$12.99",
+      "competitionLevel": "medium",
+      "score": 8,
+      "reasoning": "Four sleep-related searches including 'why can't i sleep', 'why can't i sleep at night', and 'why can't i fall asleep' confirm high search volume and recurring frustration. While sleep is a broad category, a focused checklist targeting sleep onset specifically (not general sleep hygiene) avoids mega-competitors like Calm or Sleep Cycle. A 'bedtime wind-down protocol' checklist or evening routine template has clear digital product fit and low barrier to create."
+    },
+    {
+      "problem": "People dealing with grief after loss feel stuck and don't know how to process or move through it",
+      "nicheStatement": "People navigating grief after a loss who want a structured, self-paced emotional processing guide",
+      "evidenceCount": 2,
+      "severity": "high",
+      "productFormat": "guide",
+      "suggestedPrice": "$17.99",
+      "competitionLevel": "low",
+      "score": 8,
+      "reasoning": "Grief appears explicitly in the 'how to deal with' cluster. Unlike anxiety or depression, grief has very few dominant digital product brands and is underserved by apps. People actively searching 'how to deal with grief' are in acute pain and highly motivated to purchase solutions. A structured guide covering the stages of grief, journaling prompts, daily rituals, and rebuilding identity fills a clear product gap. High severity, low competition, and emotionally driven purchase intent make this a strong opportunity."
+    },
+    {
+      "problem": "Religious individuals repeatedly fall into the same sin or temptation and feel spiritually stuck and ashamed",
+      "nicheStatement": "Christian or Muslim adults who keep struggling with the same sin and want a faith-based accountability system",
+      "evidenceCount": 3,
+      "severity": "high",
+      "productFormat": "guide",
+      "suggestedPrice": "$12.99",
+      "competitionLevel": "low",
+      "score": 8,
+      "reasoning": "Three searches explicitly reference recurring sin struggle \u2014 including both Christian and Islamic framings \u2014 confirming this crosses faith communities. The shame and repetition ('I keep struggling') signals deep emotional pain and high purchase motivation. Faith-based digital products occupy a niche largely ignored by mainstream self-help platforms, meaning competition is very low. A guide combining spiritual accountability frameworks, prayer/reflection templates, and habit-breaking strategies would be highly targeted and shareable within faith communities."
+    },
+    {
+      "problem": "People dealing with a narcissist in their life (family, partner, coworker) feel confused, manipulated, and exhausted",
+      "nicheStatement": "Adults in a relationship with a narcissist who need practical strategies to protect their mental health and set boundaries",
+      "evidenceCount": 2,
+      "severity": "high",
+      "productFormat": "guide",
+      "suggestedPrice": "$19.99",
+      "competitionLevel": "medium",
+      "score": 8,
+      "reasoning": "Narcissist content consistently generates high engagement across Reddit, YouTube, and search. The 'how to deal with a narcissist' search signals people in active, painful situations seeking practical help. While there are books on this topic, the digital guide/template space (e.g. scripts for grey-rocking, boundary-setting templates, red flag checklists) is underdeveloped. High severity, emotionally charged purchase intent, and a specific actionable product angle (scripts and templates vs. theory) create strong differentiation from existing book-length resources."
+    },
+    {
+      "problem": "People experience post-nasal drip chronically and cannot find lasting relief from the constant discomfort",
+      "nicheStatement": "Adults with chronic post-nasal drip who want a practical, non-prescription management plan",
+      "evidenceCount": 3,
+      "severity": "medium",
+      "productFormat": "checklist",
+      "suggestedPrice": "$9.99",
+      "competitionLevel": "low",
+      "score": 7,
+      "reasoning": "Post-nasal drip appears as a specific symptom search alongside runny nose and coughing, indicating people are searching beyond basic symptoms for targeted solutions. This is specific enough that no dominant digital product brand owns this space. A checklist covering triggers, dietary adjustments, environmental changes, and OTC options would fill a clear gap. Medium severity but very low competition and highly specific niche make it a strong low-effort product opportunity."
+    },
+    {
+      "problem": "People receiving constant spam calls feel harassed and don't know how to effectively stop them",
+      "nicheStatement": "Smartphone users overwhelmed by spam calls who want a step-by-step system to block and prevent them",
+      "evidenceCount": 3,
+      "severity": "medium",
+      "productFormat": "checklist",
+      "suggestedPrice": "$7.99",
+      "competitionLevel": "low",
+      "score": 7,
+      "reasoning": "Spam calls appear twice including a device-specific iPhone variant, indicating both broad and platform-specific demand. While apps like Hiya or Robokiller exist, there is no dominant guide or checklist product that walks users through the full ecosystem of solutions (carrier settings, app options, FTC registration, number-spoofing awareness). A concise, practical checklist is a fast-to-create, low-competition product. Medium severity but very low digital product competition and clear actionable scope."
+    },
+    {
+      "problem": "People with chronic constipation don't know how to safely and effectively resolve it through lifestyle changes",
+      "nicheStatement": "Adults dealing with recurring constipation who want a practical, non-laxative daily management protocol",
+      "evidenceCount": 2,
+      "severity": "medium",
+      "productFormat": "checklist",
+      "suggestedPrice": "$9.99",
+      "competitionLevel": "low",
+      "score": 7,
+      "reasoning": "Constipation appears in both 'how to deal with' and 'why can't i poop' clusters, confirming it's a real, recurring, and embarrassing pain point people actively research. Despite being a very common problem, there are almost no branded digital products specifically addressing it \u2014 the space is dominated by pharmaceutical brands, not guides. A checklist covering fiber intake, hydration, movement, positioning (Squatty Potty angle), and stress connection fills a clear gap. Low competition, high specificity, and recurring problem nature make this a solid opportunity."
+    }
+  ]
+}
